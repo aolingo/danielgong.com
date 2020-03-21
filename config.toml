@@ -1,21 +1,21 @@
 baseURL = "http://example.com/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Daniel Gong"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    author = "Daniel Gong"
+    description = "Computer Science Student at UBC"
     githubUsername = "#"
-    accent = "red"
+    accent = "green"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightStyle = "atom-one-dark"
+    highlightLanguages = ["go", "c", "java", "javascript", "swift"]
 
 [[menu.main]]
     url = "/"
@@ -28,13 +28,13 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
+    url = "/project/"
+    name = "Projects"
     weight = 3
 
 [[menu.main]]
-    url = "/project/"
-    name = "Projects"
+    url = "/resume/"
+    name = "Resume"
     weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
@@ -42,26 +42,17 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:daniel.gong27@gmail.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/aolingo"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
+    url = "https://www.linkedin.com/in/daniel-gong-6b9397152/"
+    name = "linkedin"
     weight = 3
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
