@@ -2,22 +2,16 @@
 draft: true
 ---
 ```go
-fmt.Println("Hello, 世界")
+                                fmt.Println("Hello, 世界! 🌎")
 ```  
 ---
-I’m a software developer studying computer science at the   
-University of British Columbia in Vancouver, Canada.
+💻 I’m a software developer studying computer science at the University of British Columbia in Vancouver.
 
-Throughout my undergraduate years, I've developed a love and hate relationship   
-with everything systems related (operating systems, distributed systems and etc).  
+💔 Currenly in a [love](https://xkcd.com/676/) and [hate](https://xkcd.com/2259/) relationship with operating systems and distributed systems.  
 
-While I love learning about the intricacies of their designs and implementations,  
-I loathe the number of sleepless nights I spent debugging them for my classes. 
+🏀 Between classes, I am either working on personal [projects](/../projects) or enjoying my [hobbies](/../hobbies).  
 
-Between classes I am either working on personal projects,  
-some of which are featured on this website, or enjoying my [hobbies](/../hobbies).  
-
-If you'd like to get in touch, feel free to send me an [e-mail](mailto:daniel.gong27@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/daniel-gong-6b9397152/)!
+💬 If you'd like to get in touch, feel free to send me an [e-mail](mailto:daniel.gong27@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/daniel-gong-6b9397152/)!
 
 ### Courses I've Taken
 ---

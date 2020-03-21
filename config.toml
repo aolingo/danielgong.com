@@ -9,6 +9,7 @@ googleAnalytics = ""
     author = "Daniel Gong"
     description = "Computer Science Student at UBC"
     githubUsername = "#"
+    css = ["css/custom.css"]
     accent = "green"
     showBorder = true
     backgroundColor = "white"
@@ -33,7 +34,7 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.main]]
-    url = "/resume/"
+    url = "/resume.html/"
     name = "Resume"
     weight = 4
 
