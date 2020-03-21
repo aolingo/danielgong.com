@@ -1,7 +1,8 @@
 ---
-title: "(Hu)go Template Primer"
-date: 2014-04-02
-tags: [ "go", "golang", "template", "themes", "development"]
+title: "🍽️ Al Dente"
+description: "An online restaurant reservation platform"
+date: 2019-08-10
+tags: [ "nodejs", "react", "meteor", "mongodb"]
 draft: false
 ---
 

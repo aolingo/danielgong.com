@@ -5,7 +5,7 @@ html, body {
 body {
     padding-top: 55px;
     display: flex;
-    text-align: left;
+    text-align: start;
     flex-direction: column;
 }
 
@@ -29,7 +29,7 @@ img {
 .intro > h1 {
     color: #212121;
     font-size: 12vh;
-    text-align: cener;
+    text-align: center;
 }
 
 .intro > h2 {
@@ -70,6 +70,7 @@ a:hover {
 
 .copyright {
     margin: 15px 0;
+    text-align: center;
 }
 
 /* Paginator */

@@ -2,7 +2,6 @@ baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Daniel Gong"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
@@ -34,9 +33,14 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.main]]
-    url = "/resume.html/"
+    url = "/resume/"
     name = "Resume"
     weight = 4
+
+ [[menu.main]]
+    url = "/hobbies/"
+    name = "Likes"
+    weight = 5   
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
