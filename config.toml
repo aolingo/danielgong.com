@@ -2,7 +2,7 @@ baseURL = "https://www.danielgong.com/"
 languageCode = "en-us"
 title = "Daniel Gong"
 theme = "minimal"
-googleAnalytics = ""
+googleAnalytics = "UA-161446820-1"
 
 [params]
     author = "Daniel Gong"
