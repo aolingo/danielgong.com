@@ -1,4 +1,4 @@
-baseURL = "https://www.danielgong.com"
+baseURL = "www.danielgong.com"
 languageCode = "en-us"
 title = "Daniel Gong"
 theme = "minimal"
