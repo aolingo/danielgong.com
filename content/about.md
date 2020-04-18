@@ -9,7 +9,7 @@ draft: false
 
 💔 Currenly in a [love](https://xkcd.com/676/) and [hate](https://xkcd.com/2259/) relationship with operating systems and distributed systems.  
 
-🏀 Between classes, I am either working on personal [projects](/../project) or enjoying my [hobbies](/../hobbies).  
+🏀 Between classes, I am either working on personal [projects](/../project) or watching [films](https://letterboxd.com/andamovie/).  
 
 💬 If you'd like to get in touch, feel free to send me an [e-mail](mailto:daniel.gong27@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/daniel-gong-6b9397152/)!
 
