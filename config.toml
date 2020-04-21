@@ -4,6 +4,11 @@ title = "Daniel Gong"
 theme = "minimal"
 googleAnalytics = "UA-161446820-1"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
     author = "Daniel Gong"
     description = "Computer Science Student at UBC"
