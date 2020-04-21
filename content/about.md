@@ -16,6 +16,7 @@ draft: false
 ### Courses I've Taken
 ---
 - CPSC 110: Systematic Program Design  
+
 - CPSC 121: Models of Computation
 - CPSC 210: Software Construction
 - CPSC 213: Introduction to Computer Systems
