@@ -1,4 +1,5 @@
 ---
+title: "About Me"
 draft: false
 ---
 ```go
@@ -9,7 +10,7 @@ draft: false
 
 💔 Currenly in a <a href="https://xkcd.com/676/" target="_blank">love</a> and <a href="https://xkcd.com/2259/" target="_blank">hate</a> relationship with operating systems and distributed systems. 
 
-🎞️ Between classes, I am either working on personal [projects](/../project) or watching <a href="https://letterboxd.com/andamovie/" target="_blank">films</a>. 
+📽️ Between classes, I am either working on personal [projects](/../project) or watching <a href="https://letterboxd.com/andamovie/" target="_blank">movies</a>. 
 
 💬 If you'd like to get in touch, feel free to send me an [e-mail](mailto:daniel.gong27@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/daniel-gong-6b9397152/)!
 

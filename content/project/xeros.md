@@ -8,4 +8,4 @@ draft: false
 
 ## Project Description
 
-Stay tuned!
+Write up coming soon!
