@@ -16,8 +16,13 @@ main {
     max-width: 750px;
 }
 
+/* center align all images */
 img {
     max-width: 100%;
+    height: auto;
+    display:block; 
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Homepage */
@@ -42,6 +47,8 @@ img {
 
 .content {
     padding-top: 20px;
+    line-height: 1.5;
+    font-size: 1.15em;
 }
 
 /* Profile picture */

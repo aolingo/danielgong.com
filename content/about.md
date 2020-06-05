@@ -3,19 +3,23 @@ title: "About Me"
 draft: false
 ---
 ```go
-                                fmt.Println("Hello, 世界! 🌎")
+fmt.Println("Hello, 世界! 🌎")
 ```  
----
-💻 I’m a software developer studying computer science at the University of British Columbia in Vancouver.
+![daniel profile picture](/img/profilepic.png)
 
-💔 Currenly in a <a href="https://xkcd.com/676/" target="_blank">love</a> and <a href="https://xkcd.com/2259/" target="_blank">hate</a> relationship with operating systems and distributed systems. 
+---
+💻 I’m a computer science student at the University of British Columbia in Vancouver.
+
+💔 Currently in a <a href="https://xkcd.com/676/" target="_blank">love</a> and <a href="https://xkcd.com/2259/" target="_blank">hate</a> relationship with operating systems and distributed systems. 
 
 📽️ Between classes, I am either working on personal [projects](/../project) or watching <a href="https://letterboxd.com/andamovie/" target="_blank">movies</a>. 
 
 💬 If you'd like to get in touch, feel free to send me an [e-mail](mailto:daniel.gong27@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/daniel-gong-6b9397152/)!
 
-### Courses I've Taken
 ---
+
+### Courses I've Taken
+
 - CPSC 110: Systematic Program Design  
 
 - CPSC 121: Models of Computation

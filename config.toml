@@ -47,7 +47,7 @@ googleAnalytics = "UA-161446820-1"
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:daniel.gong27@gmail.com"
+    url = "mailto:daniel.gong@alumni.ubc.ca"
     name = "envelope-o"
     weight = 1
 
