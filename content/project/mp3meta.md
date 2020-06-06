@@ -5,7 +5,11 @@ date: "2020-04-29"
 tags: ["go", "golang", "cli tool"]
 draft: false
 ---
-[Project Repo](https://github.com/aolingo/musictag)
+### Project Demo
+
+<script id="asciicast-X1y0ftWr91O3HXlm4Mu8voV5A" src="https://asciinema.org/a/X1y0ftWr91O3HXlm4Mu8voV5A.js" async></script>
+
+[project source code](https://github.com/aolingo/musictag)
 
 ### Motivation
 
