@@ -34,7 +34,7 @@ With the above information in hand, I've decided to write a basic CLI tool in Go
 additional learning experience for the language) that will take in a base directory, such as the **Music** folder in the iPod,
 and it will replace the name of all **.mp3** files in it (including all nested folders such as *F00* - *F13*) with the *Title* in its ID3 tag (if it has one). 
 
-*some implementation notes*:
+*some implementation notes*:  
 - .mp3 files with already normal names (eg. not of the form of 4 capitalized characters XYZW) will be ignored
 - when renaming a file, if the parsed *Title* from the ID3 tag contains [reserved characters for Windows filenames](https://docs.microsoft.com/en-us/windows/win32/fileio/naming-a-file), the reserved character will be replaced with a whitespace character
 - I used the https://github.com/dhowden/tag library to parse the ID3 tags and based on the default encoding it uses, non-English characters such as Japanese and Chinese may end up as [mojibake](https://en.wikipedia.org/wiki/Mojibake) in the resulting file name
@@ -50,7 +50,7 @@ The former turned out to be a **xml** file and it seems to list all the songs in
 
 Thus, it seems like iTunes uses these unique ids and hash them into different buckets (hence the 14 subfolders *F0* to *F13*) and assign them the corresponding 4 character names. To pursue this path further, I have to refer to Apple's official documentations for dealing with iTunes database files and most likely look into learning **Swift** or **Objective-C** to accomplish this task.
 
-Some relevant links for possible future reference:
+Some relevant links for possible future reference:  
 - https://discussions.apple.com/thread/7145301
 - https://discussions.apple.com/thread/5787329
 - https://stackoverflow.com/questions/21058852/retrieve-an-itunes-track-object-from-its-high-low-persistent-id
