@@ -5,13 +5,13 @@ date: "2020-04-29"
 tags: ["go", "golang", "cli tool"]
 draft: false
 ---
-### Project Demo
+### Usage Demo
 
 <script id="asciicast-X1y0ftWr91O3HXlm4Mu8voV5A" src="https://asciinema.org/a/X1y0ftWr91O3HXlm4Mu8voV5A.js" async></script>
 
-[project source code](https://github.com/aolingo/musictag)
+[source code](https://github.com/aolingo/musictag)
 
-### Motivation
+### Project Motivation
 
 I was recently trying to transfer songs from my old iPod Nano to my Android phone and I found out that the process was much more complicated than just a simple drag and drop from the iPod's file system.
 
