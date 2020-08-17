@@ -11,7 +11,7 @@ googleAnalytics = "UA-161446820-1"
 
 [params]
     author = "Daniel Gong"
-    description = "Computer Science Student at UBC"
+    description = "Software Developer in Vancouver, BC"
     githubUsername = "#"
     css = ["css/custom.css"]
     accent = "green"
