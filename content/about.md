@@ -8,11 +8,11 @@ fmt.Println("Hello, 世界! 🌎")
 ![daniel profile picture](/img/profilepic.png)
 
 ---
-💻 A recent computer science graduate from the University of British Columbia.
+💻 I am a software developer at ZE Powergroup.
 
-💔 Currently in a <a href="https://xkcd.com/676/" target="_blank">love</a> and <a href="https://xkcd.com/2259/" target="_blank">hate</a> relationship with operating systems and distributed systems. 
+💔 I was once in a <a href="https://xkcd.com/676/" target="_blank">love</a> and <a href="https://xkcd.com/2259/" target="_blank">hate</a> relationship with operating systems and distributed systems. 
 
-📽️ In my spare time, I am either working on personal [projects](/../project) or watching <a href="https://letterboxd.com/andamovie/" target="_blank">movies</a>. 
+📽️ I love watching <a href="https://letterboxd.com/andamovie/" target="_blank">movies</a> in my spare time. 
 
 💬 If you'd like to get in touch, feel free to send me an [e-mail](mailto:daniel.gong27@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/daniel-gong-6b9397152/)!
 
