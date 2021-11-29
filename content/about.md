@@ -10,7 +10,7 @@ fmt.Println("Hello, 世界! 🌎")
 ---
 💻 I am a software developer at ZE Powergroup.
 
-💔 I was once in a <a href="https://xkcd.com/676/" target="_blank">love</a> and <a href="https://xkcd.com/2259/" target="_blank">hate</a> relationship with operating systems and distributed systems. 
+💔 I had a <a href="https://xkcd.com/676/" target="_blank">love</a> and <a href="https://xkcd.com/2259/" target="_blank">hate</a> relationship with operating systems and distributed systems. 
 
 📽️ I love watching <a href="https://letterboxd.com/andamovie/" target="_blank">movies</a> in my spare time. 
 

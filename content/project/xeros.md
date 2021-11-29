@@ -1,5 +1,5 @@
 ---
-title: "🖥️ Xeros Kernel"
+title: "🖥️ Xeros Kernel (Programming)"
 description: "A monolithic kernel based on Intel x86 Architecture"
 link: "https://github.com/aolingo/kernel-snippets"
 date: "2019-12-01"
@@ -9,4 +9,3 @@ draft: false
 
 ## Project Description
 
-Write up coming soon!

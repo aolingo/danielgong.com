@@ -1,5 +1,5 @@
 ---
-title: "🎵 Music Tag"
+title: "🎵 Music Tag (Programming)"
 description: "A personal cli tool to decode song names from my iPod"
 date: "2020-04-29"
 tags: ["go", "golang", "cli tool"]
